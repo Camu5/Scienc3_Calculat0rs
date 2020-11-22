@@ -1,5 +1,5 @@
 #python 3.7.1
-##Coded by Krypt0N
+##Coded by Camu5
 
 #Import math for square root
 import math
